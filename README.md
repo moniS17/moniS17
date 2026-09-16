@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @moniS17
-- 👀 I’m interested in creating a game
+- I worked on fine-tuning, training, and testing AI on AMD and NVDIA GPU
